@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="UserDatabase.Masterpage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>Tilmelding</title>
+   <meta charset="utf-8"/>
+   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+   <link rel="stylesheet" href="Content/bootstrap.min.css"/>
+   <link rel="stylesheet" href="Content/bootstrap-theme.min.css"/>
+       <script type="text/javascript" src="scripts/jquery-1.9.1.js"></script>
+   <script type="text/javascript" src="scripts/bootstrap.js"></script>
+</head>
+
+<body>
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <nav class="container">
+
+                <aside class="navbar-brand">Brand goes here</aside>
+
+                <nav class="collapse navbar-collapse navHeaderCollapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="Welcome.aspx">Home</a></li>
+                        <li><a href="#">asd</a></li>
+                        <li><a href="#">sdf</a></li>
+                        <li><a href="#">dfg</a></li>
+                    </ul>
+                </nav>
+
+                <button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+
+            </nav>
+        </nav>
+
+        <asp:ContentPlaceHolder id="CPH1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <footer class="navbar navbar-default navbar-fixed-bottom">
+            <section class="container">
+                <p class="navbar-text">Copyright</p>
+            </section>
+        </footer>
+
+</body>
+
+
+</html>
