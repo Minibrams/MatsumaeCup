@@ -1,0 +1,31 @@
+﻿body {
+    margin-bottom:50px;
+    font-family: Cambria;
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
+.carousel-caption h1{
+    color: #eb1e25;
+}
+
+.carousel-caption h3{
+    color: #eb1e25;
+}
+
+.carousel-inner {
+    height:400px;
+}
+
+.carousel-caption p {
+    display: block;
+    color:black;
+    text-align: left;
+}
+
+footer {
+    height:30px;
+}

@@ -1,0 +1,221 @@
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\ApplicationInsights.config
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\csc.exe
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\vbc.exe
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll.config
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\RegisterPortal.pdb
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.csprojResolveAssemblyReference.cache
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.dll
+C:\Users\Anders Brams\Desktop\Programming\C#\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.pdb
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\ApplicationInsights.config
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\csc.exe
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\vbc.exe
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll.config
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\RegisterPortal.pdb
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.pdb
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Swashbuckle.Core.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.Web.Http.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\WebActivatorEx.dll
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.Web.Http.xml
+C:\Users\nikol\Desktop\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\ApplicationInsights.config
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\csc.exe
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\vbc.exe
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll.config
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\RegisterPortal.pdb
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Swashbuckle.Core.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\WebActivatorEx.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.dll
+C:\Users\nikol\Desktop\Ny mappe\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.pdb
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\ApplicationInsights.config
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\csc.exe
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\vbc.exe
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll.config
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\RegisterPortal.pdb
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Swashbuckle.Core.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\WebActivatorEx.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.dll
+C:\Users\nikol\Desktop\Nymappe\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.pdb
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\ApplicationInsights.config
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\csc.exe
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\vbc.exe
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll.config
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\RegisterPortal.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\RegisterPortal.pdb
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Swashbuckle.Core.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.Web.Http.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\WebActivatorEx.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\Newtonsoft.Json.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.Web.Http.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.csprojResolveAssemblyReference.cache
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.dll
+C:\Users\Anders Brams\Downloads\RegisterPortal-2.0\RegisterPortal\RegisterPortal\obj\Debug\RegisterPortal.pdb
