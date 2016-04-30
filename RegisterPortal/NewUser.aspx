@@ -48,7 +48,6 @@
 
                             <asp:ListItem></asp:ListItem>
                             </asp:DropDownList>
-                        <select class="form-control bfh-countries" data-country="Denmark"></select>
                     </div>
                     <div class="form-group">
                         <label class="show">Country code</label>
