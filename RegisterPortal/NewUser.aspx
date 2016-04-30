@@ -22,19 +22,20 @@
                         <asp:TextBox ID="TextBoxClub" type="text" class="form-control" placeholder="Club:'Vejle Judo Klub'" runat="server" Height="21px" Width="150px"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBox1" type="text" class="form-control" placeholder="Username" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxUsername" type="text" class="form-control" placeholder="Username" runat="server" Height="21px" Width="150px"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBox2" type="text" class="form-control" placeholder="Firstname" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxFirstname" type="text" class="form-control" placeholder="Firstname" runat="server" Height="21px" Width="150px"></asp:TextBox>
                     </div>
                         <div class="form-group">
-                        <asp:TextBox ID="TextBox3" type="text" class="form-control" placeholder="lastname" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxLastname" type="text" class="form-control" placeholder="lastname" runat="server" Height="21px" Width="150px"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBox4" TextMode="Email" class="form-control" placeholder="Email" runat="server" Height="21px" Width="150px" ></asp:TextBox>
+                        <asp:TextBox ID="TextBoxEmail" TextMode="Email" class="form-control" placeholder="Email" runat="server" Height="21px" Width="150px" ></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:DropDownList ID="DropDownList1" class="form-control" placeholder="Email" runat="server" data-toggle="dropdown" Height="50px" Width="150px" AutoPostBack="True" OnDataBinding="DropDownList1_DataBinding" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+                        <asp:DropDownList ID="DropDownList1" class="form-control" placeholder="Country" runat="server" data-toggle="dropdown" Height="50px" Width="150px" AutoPostBack="True" OnDataBinding="DropDownList1_DataBinding" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+                            <asp:ListItem Value= "0">Country</asp:ListItem>
                             <asp:ListItem Value="0045">Danmark/DEN</asp:ListItem>
                             <asp:ListItem Value="0049">Germany/GER</asp:ListItem>
                             <asp:ListItem Value="0046">Sweden/SWE</asp:ListItem>
@@ -51,10 +52,10 @@
                     </div>
                     <div class="form-group">
                         <label class="show">Country code</label>
-                        <asp:TextBox ID="TextBox5" class="form-control" runat="server" Height="21px" Width="150px" TextMode="Search"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxCountryCode" class="form-control" placeholder="Country Code" runat="server" Height="21px" Width="150px" TextMode="Search"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBox6" class="form-control" placeholder="Phone number" runat="server" Height="21px" Width="150px" TextMode="Phone"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxPhone" class="form-control" placeholder="Phone number" runat="server" Height="21px" Width="150px" TextMode="Phone"></asp:TextBox>
                     </div>
                     </center>
                 </div>
@@ -62,7 +63,7 @@
         </div>     
         <asp:Button ID="Button2" class="btn btn-success" runat="server" Text="Register" OnClick="Button2_Click" data-toggle="modal" href="#submitted"/>  
         <br />
-                wa</div>
+                </div>
               </div>
       </section>
   </section>
