@@ -31,40 +31,40 @@ namespace RegisterPortal {
         protected global::System.Web.UI.WebControls.TextBox TextBoxClub;
         
         /// <summary>
-        /// TextBox1 control.
+        /// TextBoxUsername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxUsername;
         
         /// <summary>
-        /// TextBox2 control.
+        /// TextBoxFirstname control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxFirstname;
         
         /// <summary>
-        /// TextBox3 control.
+        /// TextBoxLastname control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox3;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxLastname;
         
         /// <summary>
-        /// TextBox4 control.
+        /// TextBoxEmail control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox4;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxEmail;
         
         /// <summary>
         /// DropDownList1 control.
@@ -76,22 +76,22 @@ namespace RegisterPortal {
         protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
         
         /// <summary>
-        /// TextBox5 control.
+        /// TextBoxCountryCode control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox5;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxCountryCode;
         
         /// <summary>
-        /// TextBox6 control.
+        /// TextBoxPhone control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox6;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxPhone;
         
         /// <summary>
         /// Button2 control.
