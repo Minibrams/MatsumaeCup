@@ -13,6 +13,11 @@ namespace RegisterPortal
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["Login"] != null)
+            {
+                Label1.Text = Session["User"].ToString();
+                Button1.Visible = true;
+            }
             Connexion.Cn.Open();
             Connexion.cmd = Connexion.Cn.CreateCommand();
             Connexion.cmd.CommandType = CommandType.Text;
@@ -22,15 +27,23 @@ namespace RegisterPortal
             {
                 Connexion.Cn.Close();
                 GridView1.Visible = true;
+                Label2.Text = "ja";
             }
             else
             {
                 Connexion.Cn.Close();
                 GridView1.Visible = false;
+                Label2.Text = "Nej";
             }
         }
         protected void Page_Unload(object sender, EventArgs e)
         {
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Session.Clear();
+            Response.Redirect("Welcome.aspx");
         }
     }
 }

@@ -24,7 +24,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="Welcome.aspx">Home</a></li>
                         <li><a href="NewUser.aspx">New registration</a></li>
-                        <li><a href="AllFighters.aspx">All fighters</a></li>
+                        <li><a href="AllFighters.aspx">All Attendants</a></li>
                         <li><a href="Login.aspx">Login</a></li>
                         <li><a href="#">About</a></li>
                     </ul>

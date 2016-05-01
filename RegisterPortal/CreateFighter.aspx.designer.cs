@@ -13,6 +13,24 @@ namespace RegisterPortal {
     public partial class Sigin {
         
         /// <summary>
+        /// DoNotTouch control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label DoNotTouch;
+        
+        /// <summary>
+        /// Label3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label3;
+        
+        /// <summary>
         /// Button6 control.
         /// </summary>
         /// <remarks>
@@ -22,13 +40,22 @@ namespace RegisterPortal {
         protected global::System.Web.UI.WebControls.Button Button6;
         
         /// <summary>
-        /// DoNotTouch control.
+        /// NotOk control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label DoNotTouch;
+        protected global::System.Web.UI.WebControls.Label NotOk;
+        
+        /// <summary>
+        /// Ok control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Ok;
         
         /// <summary>
         /// Label2 control.

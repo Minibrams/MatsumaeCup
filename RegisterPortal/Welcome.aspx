@@ -1,6 +1,14 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Masterpage.Master" AutoEventWireup="true" CodeBehind="Welcome.aspx.cs" Inherits="RegisterPortal.Welcome" %>
 
 <asp:Content ContentPlaceHolderId="CPH1" runat="server">
+    <section class="container">
+        <div class="text-right">
+        <div class="form-inline">
+        <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
+        <asp:Button ID="Button1" runat="server" class="btn btn-primary" Text="Logout" OnClick="Button1_Click" Visible="False" />
+            </div>
+            </div>
+        </section>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">

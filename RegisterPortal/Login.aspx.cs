@@ -15,6 +15,10 @@ namespace RegisterPortal
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["Login"] != null)
+            {
+                Response.Redirect("CreateFighter.aspx");
+            }
         }
         protected void Page_Unload(object sender, EventArgs e)
         {
@@ -33,10 +37,12 @@ namespace RegisterPortal
 
                 if (Connexion.dr.HasRows)
                 {
+                    Session["User"] = Connexion.dr.GetValue(2).ToString();
                     Connexion.dr.Close();
                     Connexion.Cn.Close();
                     Session["login"] = TextBox1.Text;
-                    Response.Redirect("Sigin.aspx");
+                    
+                    Response.Redirect("CreateFighter.aspx");
                 }
                 else
                 {

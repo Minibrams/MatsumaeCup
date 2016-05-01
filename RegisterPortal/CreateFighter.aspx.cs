@@ -23,6 +23,7 @@ namespace RegisterPortal
             {
                 
                 DoNotTouch.Text = Session["Login"].ToString();
+                Label3.Text = Session["User"].ToString();
                 foreach (GridViewRow row in GridView1.Rows)
                 {
                     for (int i = 7; i <= 7; i++)
@@ -30,29 +31,83 @@ namespace RegisterPortal
                         _totalAmount += int.Parse(row.Cells[i].Text);
                     }
                 }
+                if (Session["Ok"] == null)
+                {
+                    Ok.Visible = false;
+                    NotOk.Visible = false;
+                }
+                else if (Session["Ok"].ToString() == "Ok")
+                {
+                    Ok.Visible = true;
+                    NotOk.Visible = false;
+                }
+                else if(Session["Ok"].ToString() == "NotOk")
+                {
+                    Ok.Visible = false;
+                    NotOk.Visible = true;
+                }
             }
             Label2.Text = _totalAmount.ToString();
         }
 
         protected void Page_Unload(object sender, EventArgs e)
         {
+            Session["Ok"] = null;
         }
 
         protected void Button5_Click1(object sender, EventArgs e)
         {
             if (TextBox4.Text != "")
             {
+                
+                string club = GetClub();
                 Connexion.Cn.Open();
                 Connexion.cmd = Connexion.Cn.CreateCommand();
                 Connexion.cmd.CommandType = CommandType.Text;
                 Connexion.cmd.CommandText = ("insert into T values('" + TextBox4.Text + "','" + TextBox4.Text + "','" + DoNotTouch.Text + "','" + "U18 Men  -50 Kg" + "','" + "U18 Men  -50 Kg" + "','" +
-                                             "Yes" + "','" + 100 + "')");
+                                             "Yes" + "','" + 100 + "','" + club + "')");
                 Connexion.cmd.ExecuteNonQuery();
                 Connexion.Cn.Close();
                 TextBox4.Text = "";
-                Response.Redirect("Sigin.aspx");
+                
+                Response.Write(club);
+                Session["Ok"] = "Ok";
+                Ok.Visible = true;
+                NotOk.Visible = false;
+                Response.Redirect("CreateFighter.aspx");
+            }
+            else
+            {
+                Ok.Visible = false;
+                NotOk.Visible = true;
+                Session["Ok"] = "NotOk";
+            }
+
+        }
+
+        private string GetClub()
+        {
+            Connexion.Cn.Open();
+            Connexion.cmd = new SqlCommand("SELECT * FROM [User] Where UserName = '" + Session["Login"] +"'", Connexion.Cn);
+            Connexion.dr = Connexion.cmd.ExecuteReader();
+
+            Connexion.dr.Read();
+
+            if (Connexion.dr.HasRows)
+            {
+               string club = Connexion.dr.GetValue(6).ToString();
+                Connexion.dr.Close();
+                Connexion.Cn.Close();
+                return club;
+            }
+            else
+            {
+                Connexion.dr.Close();
+                Connexion.Cn.Close();
+                return "";
             }
         }
+
 
         protected void Button6_Click(object sender, EventArgs e)
         {
@@ -60,13 +115,13 @@ namespace RegisterPortal
             Response.Redirect("Welcome.aspx");
         }
 
-        private int getData(string cup, string tjek, string Database)
+        private int getData(string textTjek, string Tabeltjek, string Tabel)
         {
             DataTable dt = new DataTable();
             Connexion.Cn.Open();
-            Connexion.cmd = new SqlCommand("SELECT * FROM ["+Database+"] Where "+ tjek+" = '" + cup + "'", Connexion.Cn);
+            Connexion.cmd = new SqlCommand("SELECT * FROM ["+Tabel+"] Where "+ Tabeltjek+" = '" + textTjek + "'", Connexion.Cn);
             SqlDataAdapter sqlDa = new SqlDataAdapter(Connexion.cmd);
-            Connexion.cmd.Parameters.AddWithValue("@"+tjek, cup);
+            Connexion.cmd.Parameters.AddWithValue("@"+Tabeltjek, textTjek);
             sqlDa.Fill(dt);
             if (dt.Rows.Count > 0)
             {
@@ -109,7 +164,7 @@ namespace RegisterPortal
             mail.To.Add("Modtager Mail");
             mail.Subject = "Test Mail - 1";
             mail.Body = "mail with attachment";
-
+             //Hvis der skal sendes en fil med//
             //System.Net.Mail.Attachment attachment;
             //attachment = new System.Net.Mail.Attachment("c:/textfile.txt");
             //mail.Attachments.Add(attachment);

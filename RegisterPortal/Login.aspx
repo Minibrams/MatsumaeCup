@@ -12,12 +12,12 @@
 				<div class="login-group">
 					<div class="form-group">
 						<label for="lg_username" class="show">Username</label>
-                        <asp:TextBox ID="TextBox1" type="text" class="form-control" placeholder="Username" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBox1" type="text" class="form-control" placeholder="Username" runat="server" Height="30px" Width="200px"></asp:TextBox>
 
                         <div></div>
 
 						<label for="lg_password" class="show">Password</label>
-                        <asp:TextBox ID="TextBox2" type="text" class="form-control" placeholder="Password" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBox2" type="text" class="form-control" placeholder="Password" runat="server" Height="30px" Width="200px"></asp:TextBox>
                         <div>
                             <br/>
                         </div>

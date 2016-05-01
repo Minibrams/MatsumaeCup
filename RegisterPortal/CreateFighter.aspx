@@ -1,20 +1,27 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Masterpage.Master" AutoEventWireup="true" CodeBehind="Sigin.aspx.cs" Inherits="RegisterPortal.Sigin" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Masterpage.Master" AutoEventWireup="true" CodeBehind="CreateFighter.aspx.cs" Inherits="RegisterPortal.Sigin" %>
 
 <asp:Content ContentPlaceHolderId="CPH1" runat="server">
     <form runat="server">
             <section class="container">
+        <div class="text-right">
+        <div class="form-inline">
+        <asp:Label ID="DoNotTouch" runat="server" Text="Label" Visible="False"></asp:Label>
+        <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+        <asp:Button ID="Button6" runat="server" class="btn btn-primary" OnClick="Button6_Click" Text="Logout" />
+            </div>
+            </div>
             <section class="jumbotron">
           <h2 class="text-center">MATSUMAE CUP 2016</h2>
           <h4 class="text-center">Press the button below to register</h4>
+          <div class="text-center">
+                <h2><asp:Label ID="NotOk" class="alert alert-danger" role="alert" runat="server" Text="Virker dette her overhovedet" Visible="False"></asp:Label></h2>
+          <h2><asp:Label ID="Ok" class="alert alert-success" role="alert" runat="server" Text="Virker dette her overhovedet" Visible="False"></asp:Label></h2>
+          </div>
         <p>
-            <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" Text="Logout" Height="48px" />
-
-            <asp:Label ID="DoNotTouch" runat="server" Text="Label" Visible="False"></asp:Label>
             <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
-
         </p>
         <center>
-         <asp:TextBox ID="TextBox4" type="text" class="form-control" placeholder="Add" runat="server" Height="21px" Width="150px"></asp:TextBox>
+         <asp:TextBox ID="TextBox4" type="text" class="form-control" placeholder="Add" runat="server" Height="30px" Width="200px"></asp:TextBox>
         <asp:Button ID="Button5" class="btn btn-success" runat="server" Text="Register" OnClick="Button5_Click1" /> 
         <br/>
         <br/>

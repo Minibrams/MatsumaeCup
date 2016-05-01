@@ -4,6 +4,12 @@
 <asp:Content ContentPlaceHolderId="CPH1" runat="server">
     <form runat="server">
     <section class="container">
+        <div class="text-right">
+        <div class="form-inline">
+        <asp:Label ID="Label3" runat="server" Text=""></asp:Label>
+        <asp:Button ID="Button6" runat="server" class="btn btn-primary" Text="Logout" OnClick="Button6_Click" Visible="False" />
+            </div>
+            </div>
       <section class="jumbotron">
          <div class="text-center">
           <h2><asp:Label ID="OKOrNot" class="alert alert-danger" role="alert" runat="server" Text="Virker dette her overhovedet" Visible="False"></asp:Label></h2>
@@ -19,22 +25,22 @@
                 <div class="login-group">
                     <center>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBoxClub" type="text" class="form-control" placeholder="Club:'Vejle Judo Klub'" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxClub" type="text" class="form-control" placeholder="Club:'Vejle Judo Klub'" runat="server" Height="30px" Width="200px"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBoxUsername" type="text" class="form-control" placeholder="Username" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxUsername" type="text" class="form-control" placeholder="Username" runat="server" Height="30px" Width="200px"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBoxFirstname" type="text" class="form-control" placeholder="Firstname" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxFirstname" type="text" class="form-control" placeholder="Firstname" runat="server" Height="30px" Width="200px"></asp:TextBox>
                     </div>
                         <div class="form-group">
-                        <asp:TextBox ID="TextBoxLastname" type="text" class="form-control" placeholder="lastname" runat="server" Height="21px" Width="150px"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxLastname" type="text" class="form-control" placeholder="lastname" runat="server" Height="30px" Width="200px"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBoxEmail" TextMode="Email" class="form-control" placeholder="Email" runat="server" Height="21px" Width="150px" ></asp:TextBox>
+                        <asp:TextBox ID="TextBoxEmail" TextMode="Email" class="form-control" placeholder="Email" runat="server" Height="30px" Width="200px" ></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:DropDownList ID="DropDownList1" class="form-control" placeholder="Country" runat="server" data-toggle="dropdown" Height="50px" Width="150px" AutoPostBack="True" OnDataBinding="DropDownList1_DataBinding" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+                        <asp:DropDownList ID="DropDownList1" class="form-control" placeholder="Country" runat="server" data-toggle="dropdown" Height="30px" Width="200px" AutoPostBack="True" OnDataBinding="DropDownList1_DataBinding" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
                             <asp:ListItem Value= "0">Country</asp:ListItem>
                             <asp:ListItem Value="0045">Danmark/DEN</asp:ListItem>
                             <asp:ListItem Value="0049">Germany/GER</asp:ListItem>
@@ -52,10 +58,10 @@
                     </div>
                     <div class="form-group">
                         <label class="show">Country code</label>
-                        <asp:TextBox ID="TextBoxCountryCode" class="form-control" placeholder="Country Code" runat="server" Height="21px" Width="150px" TextMode="Search"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxCountryCode" class="form-control" placeholder="Country Code" runat="server" Height="30px" Width="130px" TextMode="Search"></asp:TextBox>
                     </div>
                     <div class="form-group">
-                        <asp:TextBox ID="TextBoxPhone" class="form-control" placeholder="Phone number" runat="server" Height="21px" Width="150px" TextMode="Phone"></asp:TextBox>
+                        <asp:TextBox ID="TextBoxPhone" class="form-control" placeholder="Phone number" runat="server" Height="30px" Width="200px" TextMode="Phone"></asp:TextBox>
                     </div>
                     </center>
                 </div>

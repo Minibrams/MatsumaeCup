@@ -12,7 +12,11 @@ namespace RegisterPortal
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //TextBoxCountryCode.Text = DropDownList1.SelectedValue;
+            if (Session["Login"] != null)
+            {
+                Label3.Text = Session["User"].ToString();
+                Button6.Visible = true;
+            }
         }
         protected void Page_Unload(object sender, EventArgs e)
         {
@@ -24,11 +28,12 @@ namespace RegisterPortal
                 Connexion.Cn.Open();
                 Connexion.cmd = Connexion.Cn.CreateCommand();
                 Connexion.cmd.CommandType = CommandType.Text;
-                Connexion.cmd.CommandText = ("INSERT INTO [User] values('" + TextBoxUsername.Text + "','" + 1234 + "','" + TextBoxFirstname.Text + "','" + TextBoxLastname.Text + "','" + TextBoxEmail.Text + "','" + TextBoxClub.Text + "','" + TextBoxCountryCode + " " + TextBoxPhone.Text + "')");
+                Connexion.cmd.CommandText = ("INSERT INTO [User] values('" + TextBoxUsername.Text + "','" + 1234 + "','" + TextBoxFirstname.Text + "','" + TextBoxLastname.Text + "','" + TextBoxEmail.Text + "','" + TextBoxCountryCode + " " + TextBoxPhone.Text + "','" + TextBoxClub.Text + "')");
                 Connexion.cmd.ExecuteNonQuery();
                 Session["Login"] = TextBoxUsername.Text;
+                Session["User"] = TextBoxFirstname.Text;
                 Connexion.Cn.Close();
-                Response.Redirect("Sigin.aspx");
+                Response.Redirect("CreateFighter.aspx");
                 
             }
             else
@@ -56,6 +61,12 @@ namespace RegisterPortal
 
         protected void DropDownList1_DataBinding(object sender, EventArgs e)
         {
+        }
+
+        protected void Button6_Click(object sender, EventArgs e)
+        {
+            Session.Clear();
+            Response.Redirect("Welcome.aspx");
         }
     }
 }
